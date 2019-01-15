@@ -24,6 +24,7 @@ using namespace std;
 double seed[52]; //a set of seeds
 double oldrand[55]; //an array used in the random number generation
 int jrand; //keeps track of how many numbers have been generated
+
 int RS;
 
 void usage(int argc, char* argv[])
